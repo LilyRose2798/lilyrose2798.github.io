@@ -1,0 +1,114 @@
+@font-face {
+    font-family: "Comic Code";
+    src: url("fonts/Tabular\ Type\ Foundry\ -\ Comic\ Code\ Regular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Comic Code";
+    src: url("fonts/Tabular\ Type\ Foundry\ -\ Comic\ Code\ Italic.otf") format("opentype");
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "Comic Code";
+    src: url("fonts/Tabular\ Type\ Foundry\ -\ Comic\ Code\ Bold.otf") format("opentype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Comic Code";
+    src: url("fonts/Tabular\ Type\ Foundry\ -\ Comic\ Code\ Bold\ Italic.otf") format("opentype");
+    font-weight: bold;
+    font-style: italic;
+}
+
+:root {
+    --trans-pride-opacity: 50%;
+    --trans-pride-blue: rgba(91, 206, 250, var(--trans-pride-opacity));
+    --trans-pride-pink: rgba(245, 169, 184, var(--trans-pride-opacity));
+    --trans-pride-white: rgba(255, 255, 255, var(--trans-pride-opacity));
+    --accent-color: #d1bdff;
+}
+
+html {
+    background: linear-gradient(0, var(--trans-pride-blue) 20%, var(--trans-pride-pink) 20%, 40%,var(--trans-pride-white) 40%, 60%, var(--trans-pride-pink) 60%, 80%, var(--trans-pride-blue) 80%) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+body {
+    margin: 30px auto;
+    width: min(80%, 500px);
+    color: #EEE;
+    font-family: "Comic Code", sans-serif;
+    background: #333;
+    border-radius: 10px;
+    box-shadow: 10px 10px 4px #00000088;
+}
+
+#content {
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+}
+
+#content > * {
+    margin: 40px 30px;
+    padding: 0;
+}
+
+h1 {
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+#logo {
+    display: block;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+    width: min(80%, 200px);
+    background: var(--accent-color);
+    border-radius: 50%;
+}
+
+#logo img {
+    position: relative;
+    top: 5px;
+    left: 5px;
+}
+
+#accounts {
+    list-style: none;
+}
+
+#accounts li {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#accounts svg {
+    position: relative;
+    top: 9px;
+    width: 30px;
+}
+
+#accounts span {
+    line-height: 2.2em;
+}
+
+a {
+    color: var(--accent-color);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}

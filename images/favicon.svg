@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-6.93 -9.51 17.33 16.51"
+    style="image-rendering: -moz-crisp-edges; image-rendering: -o-crisp-edges; image-rendering: pixelated; -ms-interpolation-mode: nearest-neighbor;">
+    <title>Trans Bee</title>
+    <image id="Legs_Back" width="5" height="2" transform="skewY(30) scale(0.866025403784438646763723, 1) translate(1, 0)"
+        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAACCAYAAACQahZdAAAAH0lEQVQImWMQE+D7z4AExAT4/jN5KokjizF4KokzAABUuANtESxopQAAAABJRU5ErkJggg==" />
+    <image id="Legs_Middle" width="5" height="2" transform="skewY(30) scale(0.866025403784438646763723, 1) translate(-1, 2)"
+        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAUAAAACCAYAAACQahZdAAAAH0lEQVQImWMQE+D7z4AExAT4/jN5KokjizF4KokzAABUuANtESxopQAAAABJRU5ErkJggg==" />
+    <image id="Body_Front" width="7" height="7" transform="skewY(30) scale(0.866025403784438646763723, 1) translate(-7, 0)"
+        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAHCAYAAADEUlfTAAAArElEQVQImU3KrQ6CUABA4QNJp3eMHxOFQrKoxWKzmGgmX8Dn8AEcifECPooZNzfndgtFi17u2MVpEpPOk75wrPdp3QJoJXH9mH/bWkkmywLXj9FKopVkvm4AsA7bRRtEhu6gA4Drx1zPR+6lwE7SkjzM+KaVJA8zkrTEGg2nbWVqil34G8arC55wsCtT4wmH5+0FwPP2whMOlamx9ptZ2+v3AQgiw70UADyahg+50EHakuD1hgAAAABJRU5ErkJggg==" />
+    <image id="Body_Right" width="10" height="7" transform="skewY(-30) scale(0.866025403784438646763723, 1)"
+        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAHCAYAAAAxrNxjAAAA6ElEQVQYlU3MsU6DUABA0csDUooQCUmdGoduzm4uTg4Onbu6mPgLfoaDo7O7P9DNxdHEkJCYWtKaQAFtlfIKfc+NeOeTa6i3G82/hvU1ydMCeXuJfffIYHzKxWSMKPMYgDKPKfMY6fYxKhchBJnycI+HAIjkxWYZvXbH/XqNMldorfESn837jKKSiKuHkv7A6WATBOzRGK3C3Jk4RUno9hDF5rtD26zmJPCoDGibFqvV6F1DUUms0D/s0Grm83WUYn8GCNOkDnucj0I+fius+4lNNJWAwXIRkZ0pto7NT5YyP0iZPs8ZAX9102MxseKhJgAAAABJRU5ErkJggg==" />
+    <image id="Body_Top" width="7" height="10" transform="rotate(30) skewX(-30) scale(1, 0.866025403784438646763723) translate(-7, -10)"
+        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAKCAYAAAB4zEQNAAAA10lEQVQYlV2OTUrDUBhFz/eSmpfEWuJLUHAmFCUDh510DQ5dlGvoCurAFbgLQcSCQikqagz9QZr40ucoUj3Dey6XKxdnxy7yPb5sQ+R7bCPnszt3s2Oou3ucVnNepq9UaUrT6SDry7HzVQ9r53xoIQwMS9nFvJfI6unNadPD1jUbcXg6QJSwKAt8dzViY4+QdJ9g6ZCF4NYxUdPg54MBnyc5edJl+vDIdxyj6orVwSEyux66MNMkpv/n6fP9LSrMNP8piwlhplEAielTFpNf2a6oVrTBdukH+uZM84VIupcAAAAASUVORK5CYII=" />
+    <image id="Feeler_Left" width="3" height="2" transform="skewY(-30) scale(0.866025403784438646763723, 1) translate(-5, -2)"
+        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAYAAACddGYaAAAAIklEQVQImWMw0Db/b6Bt/p+BgYGBJSDUk/XB448MDAwM/wFfeAfNxT25tgAAAABJRU5ErkJggg==" />
+    <image id="Feeler_Right" width="3" height="2" transform="skewY(-30) scale(0.866025403784438646763723, 1) translate(-8, -5)"
+        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAYAAACddGYaAAAAIklEQVQImWMw0Db/b6Bt/p+BgYGBJSDUk/XB448MDAwM/wFfeAfNxT25tgAAAABJRU5ErkJggg==" />
+    <image id="Wing_Left" width="7" height="6" transform="rotate(30) skewX(-30) scale(1, 0.866025403784438646763723) translate(-12, -8)"
+        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAGCAYAAAAPDoR2AAAAS0lEQVQImW3MMQqAMBSD4V/QowjOgudx9di9wuvyppAuCqU1WyBfAIhanJJTctSy8iVqMV1S8lRe5QmM+nfQX97n7mUUKfm5DoCtATgwOyYgzQFqAAAAAElFTkSuQmCC" />
+    <image id="Wing_Right" width="7" height="6" transform="rotate(30) skewX(-30) scale(1, 0.866025403784438646763723) translate(-2, -8)"
+        xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAcAAAAGCAYAAAAPDoR2AAAAUklEQVQImWVNuxGAIBQLooWNrmDDAizE6qzAa16Vi41wqKly+QIPmtXVSTmpZlWY4eRLGIFOmlX1kJPCb2JulZyG+f1bAGwlJzmpPcZwHlfo5g3inTxlv/AFcgAAAABJRU5ErkJggg==" />
+</svg>
